@@ -1,5 +1,0 @@
-1.  yarn create next-app .
-
-2.  yarn run dev => will run the page
-
-3.  index.js => default page
